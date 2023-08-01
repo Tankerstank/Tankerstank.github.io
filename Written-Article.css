@@ -1,0 +1,51 @@
+body {
+  width: 500;
+  background-color: #131325;
+  font-family: sans-serif;
+}
+
+.article {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: top;
+  width: 99%;
+  padding: 2px;
+  font-family: Helvetica;
+}
+
+p {
+  color: #b3b3b3;  
+  font-size: 12px
+}
+
+.Tank {
+  color: #ffffff;
+  font-family: Helvetica;
+}
+
+.blue {
+  color: #1AA7EC;
+}
+
+.red {
+  color: #EE4B2B;
+}
+
+.gray {
+  color: #ffffff;
+}
+
+a:hover {
+  color:darkorange;
+}
+
+#article-title {
+  color: #ffffff;  
+  font-family: Helvetica;
+}
+
+* {
+  text-align: center;
+}
